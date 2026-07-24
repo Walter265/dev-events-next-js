@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c710e8c-1a60-4807-957c-444d99582156" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/EventCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ExploreBtn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000000008243" />
+      <entry key="MS500" value="1.00662209047736" />
+      <entry key="S2" value="1.5128056015626465" />
+      <entry key="S5" value="2.6057506079628823" />
+      <entry key="S10" value="3.637829244736828" />
+      <entry key="S30" value="6.17659854525037" />
+      <entry key="S60" value="9.65283174953938" />
+      <entry key="M2" value="14.849842914855095" />
+      <entry key="M5" value="25.120986818115824" />
+      <entry key="M10" value="40.245470612412525" />
+      <entry key="M15" value="53.01822573438674" />
+      <entry key="M30" value="76.62736596687917" />
+      <entry key="H1" value="95.79579802319962" />
+      <entry key="H2" value="108.60247870502337" />
+      <entry key="H4" value="123.88968881772519" />
+      <entry key="D1" value="233.3286366146292" />
+      <entry key="W1" value="296.51635566452245" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.7108837009470265E-198" />
+      <entry key="MS500" value="3.2650923452532987E-40" />
+      <entry key="S2" value="1.344715208798286E-10" />
+      <entry key="S5" value="1.1728266474849608E-4" />
+      <entry key="S10" value="0.01278234159611739" />
+      <entry key="S30" value="0.35042119726767695" />
+      <entry key="S60" value="0.8627808496025813" />
+      <entry key="M2" value="1.470323197647329" />
+      <entry key="M5" value="2.40064542029667" />
+      <entry key="M10" value="4.099584739656982" />
+      <entry key="M15" value="5.781287613115353" />
+      <entry key="M30" value="9.118230266646897" />
+      <entry key="H1" value="11.930494791856232" />
+      <entry key="H2" value="13.80390636447847" />
+      <entry key="H4" value="15.381430851175946" />
+      <entry key="D1" value="22.44678833165463" />
+      <entry key="W1" value="26.206777933616802" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.14596916529538E-5" />
+      <entry key="MS500" value="0.14897565108637437" />
+      <entry key="S2" value="1.067491425497241" />
+      <entry key="S5" value="2.300632481286602" />
+      <entry key="S10" value="3.4122797556271074" />
+      <entry key="S30" value="6.341139930428799" />
+      <entry key="S60" value="10.353052313788531" />
+      <entry key="M2" value="16.192535310613813" />
+      <entry key="M5" value="27.43935576129662" />
+      <entry key="M10" value="44.27804679240154" />
+      <entry key="M15" value="58.73844634870686" />
+      <entry key="M30" value="85.69886765494992" />
+      <entry key="H1" value="107.69607089468548" />
+      <entry key="H2" value="122.38895007568804" />
+      <entry key="H4" value="139.26113988887286" />
+      <entry key="D1" value="255.7724056018658" />
+      <entry key="W1" value="322.72259217768755" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Gu0nAkq52DVnyQXx3LXqIzhA48" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\PROJECTS\\nextjs_demo\\node_modules\\typescript\\lib&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROJECTS\nextjs_demo\components" />
+      <recent name="D:\PROJECTS\nextjs_demo" />
+      <recent name="D:\PROJECTS\nextjs_demo\app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.8665.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c710e8c-1a60-4807-957c-444d99582156" name="Changes" comment="" />
+      <created>1784806312737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784806312737</updated>
+      <workItem from="1784806313433" duration="12564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
